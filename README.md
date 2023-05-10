@@ -5,7 +5,7 @@
     <h1>Bem vindo a nosso projeto</h1>
     <h2>Ideia</h2>
     <p>
-        Baixar o preço de se automatizar granjas e ambientes fechados com animais
+        Baixar o preço de automatizar granjas e ambientes fechados com animais
     </p>
     <h2>Problema</h2>
     <p>Nosso amigo que participa do grupo o pai dele tem uma granja e teve que fazer <br> um investimento alto pra automatizar algumas coisas e nossa ideia faria isso <br> acontecer com um investimento baixo.</p>
