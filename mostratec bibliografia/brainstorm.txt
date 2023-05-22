@@ -1,0 +1,24 @@
+automação, arduino, granja, animais, temperatura, sensor, flutter, programação, mobile, dart, kotlin, swift, c++, tecnologia, acessibilidade, custos, galinha, casas, bem-estar, gado, luminosidade
+
+
+automação:	Automação é o uso de tecnologia para executar tearefas com o mínimo de assistência humana possivel segundo https://www.redhat.com/pt-br/topics/automation#:~:text=Automa%C3%A7%C3%A3o%20%C3%A9%20o%20uso%20de,m%C3%ADnimo%20de%20assist%C3%AAncia%20humana%20poss%C3%ADvel.
+arduino:	Arduino é uma plataforma que possibilita o desenvolvimento de projetos eletrônicos segundo https://victorvision.com.br/blog/o-que-e-arduino/#:~:text=Arduino%20%C3%A9%20uma%20plataforma%20que,realiza%C3%A7%C3%A3o%20de%20diversos%20projetos%20tecnol%C3%B3gicos.
+granja:	Uma granja é uma pequena propriedade rural em que é praticada agricultura em escala reduzida segundo https://agro20.com.br/granja/#:~:text=De%20modo%20geral%2C%20nas%20granjas,de%20ovos%20como%20de%20carne
+animais:	São seres vivos multicelulares que possuem celulas eucariontes e heterotróficos segundo https://brasilescola.uol.com.br/animais
+temperatura:	A temperatura é uma grandeza física escalar que pode ser definida como a medida do grau de agitação das moléculas que compõem um corpo segundo https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-temperatura.htm
+sensor:	Um sensor é geralmente definido como um dispositivo que recebe e responde a um estímulo ou um sinal segundo http://www.nomads.usp.br/pesquisas/design/dos/Capacitacao/arquivos/sensores.pdf
+flutter: é um framework(ferramenta) de desenvolvimento com foco multiplataforma em dispositivos móveis segundo https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro#:~:text=Programa%C3%A7%C3%A3o%20%C3%A9%20o%20processo%20de,Java%2C%20Python%20e%20C%2B%2B.
+Programação:	Programação é o processo de criação de um conjunto de instruções que dizem ao computador como realizar uma tarefa segundo https://pt.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro#:~:text=Programa%C3%A7%C3%A3o%20%C3%A9%20o%20processo%20de,Java%2C%20Python%20e%20C%2B%2B.
+Mobile é o nome atribuído aos dispositivos móveism tais como o smartphone, smartwatches, celular e etc segundo https://www.luzpropria.com.br/glossario/o-que-e-mobile/#:~:text=Mobile%20%C3%A9%20o%20nome%20atribu%C3%ADdo,no%20mundo%20do%20marketing%20digital
+Dart: é uma linguagem de programação multi-paradigma utilizada para desenvolvimento de aplicações web, aplicações moveis e desktop segundo https://www.hostinger.com.br/tutoriais/linguagem-dart#:~:text=Dart%20%C3%A9%20uma%20linguagem%20de,do%20cliente%20quanto%20no%20servidor.
+Kotlin:	é uma linguagem de programação de código aberto estática que oferece suoporte para programação orientada a objetos e intercompatibilidade com java segundo https://developer.android.com/kotlin/overview?hl=pt-br#:~:text=O%20Kotlin%20%C3%A9%20um]
+Swift:	é uma linguagem de programação consistente e intuitiva, desenvolvida pela Apple para criação de apps para IOS, Mac, Apple TV e Apple Watch segundo https://www.apple.com/br/swift/#:~:text=Swift%20%C3%A9%20uma%20linguagem%20de,mais%20liberdade%20para%20os%20desenvolvedores.
+C++:	é uma das linguagem mais versáteis que existem permitindo desenvolver desde tarefas simples como aplicações na linha de comando ou web até sistemas mais complexos de tempo real, muito usadas no mercado financeiro segundo https://www.alura.com.br/artigos/formacao-linguagem-c-plus-plus#:~:text=C%2B%2B%20%C3%A9%20uma%20das%20linguagens%20mais%20vers%C3%A1teis%20que%20existem%2C%20permitindo,muito%20usadas%20no%20mercado%20financeiro.
+Tecnologia:	é utilizado para definir os conhecimentos que permitem fabricar objetos e modificar o meio ambiente, como vista a satisfazer a nessesidade humana segundo https://propi.ifto.edu.br/ocs/index.php/connepi/vii/paper/viewFile/4105/2753
+Acessebilidade:	pode ser definida como a possibilidade e condição de alcance, percepção e entendimento para a utilização em igualdade de oportunidades segundo https://propi.ifto.edu.br/ocs/index.php/connepi/vii/paper/viewFile/4105/2753
+Custo:	é um gsto relativo ao bem ou serviço utilizado na produção de outros bens, ou serviços segundo https://www.suno.com.br/artigos/custos-despesas/#:~:text=custos%20e%20despesas%3F-,Custo%20%C3%A9%20um%20gasto%20relativo%20ao%20bem%20ou%20servi%C3%A7o%20utilizado,contas%20de%20energia%2C%20entre%20outros.
+Galinhas:	são aves domésticas de médio porte, variando de 400 gr a 6kg, de acordo com a raça segundo https://www.infoescola.com/aves/galinha/#:~:text=Galinhas%20(Gallus%20gallus)%20s%C3%A3o%20aves,do%20mundo%20gra%C3%A7as%20%C3%A0%20domestica%C3%A7%C3%A3o
+
+
+
+
